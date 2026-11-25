@@ -1,6 +1,6 @@
 # DistroCache
 
-[![CI](https://github.com/theshloksschauhan/DistroCache/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/theshloksschauhan/DistroCache/actions/workflows/ci.yml)
+[![CI](https://github.com/theshloksschauhan/distrocache-distributed-kv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/theshloksschauhan/distrocache-distributed-kv/actions/workflows/ci.yml)
 
 DistroCache is a Dynamo-style distributed key-value cache: a FastAPI **coordinator** routes every
 request through a consistent-hash ring to replicated gRPC **storage nodes** (each backed by its own
